@@ -1,0 +1,27 @@
+{
+  "name": "@writetome51/is-leap-year",
+  "version": "0.0.1",
+  "description": "Pass in a year (an integer, not a Date). Returns true if it's a leap year, false if not",
+  "type": "module",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/writetome51/is-leap-year.git"
+  },
+  "keywords": [
+    "check",
+    "leap",
+    "year",
+    "date",
+    "leap-year"
+  ],
+  "author": "Steve Thompson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/writetome51/is-leap-year/issues"
+  },
+  "homepage": "https://github.com/writetome51/is-leap-year#readme",
+  "dependencies": {
+  }
+}
